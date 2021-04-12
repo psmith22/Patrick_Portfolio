@@ -5,6 +5,6 @@
  - Also divided games into cold and warm games based on game temperature.
  - Ran a linear regression to estimate EPA/Play using game temperature, wind speed (control), type of game (cold or warm), and type of team (cold or warm).
 
-![](https://github.com/psmith22/Patrick_Portfolio/blob/main/images/Project%20Z-test%20epa:play.png)
+![](/images/Project%20Z-test%20epa:play.png)
 
 You can use the [editor on GitHub](https://github.com/psmith22/Patrick_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
