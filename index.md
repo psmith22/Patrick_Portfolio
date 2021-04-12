@@ -1,4 +1,4 @@
-## Project 1: The Impact of Temperature on the NFL
+## [Project 1: The Impact of Temperature on the NFL](https://github.com/psmith22/nfl_temperature_proj/tree/main)
  - Analyzed impact cold weather had on EPA (expected points added) over the last decade.
  - Used NFL play by play data from nflfastR package in R and joined it with temperature data from National Oceanic and Atmospheric Administration.
  - Divided teams into cold weather teams and warm weather teams depending on the average temperature of their home city.
