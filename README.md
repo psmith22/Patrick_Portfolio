@@ -1,5 +1,5 @@
 # Patrick_Portfolio
-Patrick's data science portfolio.
+[Welcome to Patrick's data science portfolio.](https://psmith22.github.io/Patrick_Portfolio/)
 
 ## Project 1: The Impact of Temperature on the NFL
 - Analyzed impact cold weather had on EPA (expected points added) over the last decade.
