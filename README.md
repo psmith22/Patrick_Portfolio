@@ -7,3 +7,5 @@ Patrick's data science portfolio.
 - Divided teams into cold weather teams and warm weather teams depending on the average temperature of their home city.
 - Also divided games into cold and warm games based on game temperature.
 - Ran a linear regression to estimate EPA/Play using game temperature, wind speed (control), type of game (cold or warm), and type of team (cold or warm).
+
+![](https://github.com/psmith22/Patrick_Portfolio/blob/main/images/Project%20Z-test%20epa:play.png)
