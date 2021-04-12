@@ -7,4 +7,3 @@
 
 ![](/images/Project%20Z-test%20epa:play.png)
 
-You can use the [editor on GitHub](https://github.com/psmith22/Patrick_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
